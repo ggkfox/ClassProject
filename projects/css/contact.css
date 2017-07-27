@@ -1,0 +1,37 @@
+#contact-form-wrapper {
+	background-color: #ff3333;
+	height: 578px;
+}
+#contact-form-wrapper  iframe {
+	width: 60%;
+	float: left;
+ }
+
+#contact-form-wrapper h1 {
+	position: relative;
+	top: 216px;
+	right: 5%;
+}
+
+#map-wrapper {
+	clear: both;
+	background-color: blue;
+	height: 450px;
+}
+
+#map-wrapper address {
+  width: 30%;
+	float: left;
+	margin-top: 18%;
+	padding-left: 10%;
+}
+
+#map-wrapper address a {
+	color: white;
+}
+
+#map-wrapper iframe {
+	float: right;
+	width: 60%;
+	height: 450px;
+}
